@@ -1,3 +1,5 @@
+![image](https://www.kali.org/tools/hydra/images/hydra-logo.svg)
+
 ## Hydra
 
 [Hydra](https://github.com/vanhauser-thc/thc-hydra) is a brute-force tool that is use for password cracking created by [Van Hauser](https://github.com/vanhauser-thc) and [David Maciejak](https://ca.linkedin.com/in/davidmaciejak). It can perform rapid dictionary attacks against various network services. It works by taking a list of usernames and a list of passwords, then systematically trying each combination on the target system.
